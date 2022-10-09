@@ -1,6 +1,3 @@
-# selenium-test-alura
-
-
 <h1> Curso de testes de aceitação utilizando Selenium </h1>
 
 <h2>🛑 Pré-Requisitos</h2>
